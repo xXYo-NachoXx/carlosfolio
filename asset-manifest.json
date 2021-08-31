@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/carlosfolio/static/css/main.9d01557d.chunk.css",
-    "main.js": "/carlosfolio/static/js/main.c39247bc.chunk.js",
-    "main.js.map": "/carlosfolio/static/js/main.c39247bc.chunk.js.map",
-    "runtime-main.js": "/carlosfolio/static/js/runtime-main.3d3810aa.js",
-    "runtime-main.js.map": "/carlosfolio/static/js/runtime-main.3d3810aa.js.map",
-    "static/js/2.33fc6df5.chunk.js": "/carlosfolio/static/js/2.33fc6df5.chunk.js",
-    "static/js/2.33fc6df5.chunk.js.map": "/carlosfolio/static/js/2.33fc6df5.chunk.js.map",
-    "index.html": "/carlosfolio/index.html",
-    "precache-manifest.a9a263d765437163767492a070eadff8.js": "/carlosfolio/precache-manifest.a9a263d765437163767492a070eadff8.js",
-    "service-worker.js": "/carlosfolio/service-worker.js",
-    "static/css/main.9d01557d.chunk.css.map": "/carlosfolio/static/css/main.9d01557d.chunk.css.map",
-    "static/media/index.css": "/carlosfolio/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/data.jpg": "/carlosfolio/static/media/data.a585e50f.jpg",
-    "static/media/all.css": "/carlosfolio/static/media/fa-solid-900.8e4a6dcc.eot",
-    "static/media/logo-01.png": "/carlosfolio/static/media/logo-01.2192860b.png",
-    "static/media/profile.jpg": "/carlosfolio/static/media/profile.1a4289f5.jpg",
-    "static/media/web.svg": "/carlosfolio/static/media/web.9331f972.svg"
+    "main.css": "/static/css/main.53d192af.chunk.css",
+    "main.js": "/static/js/main.cc57cd42.chunk.js",
+    "main.js.map": "/static/js/main.cc57cd42.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2a083481.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2a083481.js.map",
+    "static/js/2.bb41b1e3.chunk.js": "/static/js/2.bb41b1e3.chunk.js",
+    "static/js/2.bb41b1e3.chunk.js.map": "/static/js/2.bb41b1e3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4a01219b3ae82440fc99772554faf609.js": "/precache-manifest.4a01219b3ae82440fc99772554faf609.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.53d192af.chunk.css.map": "/static/css/main.53d192af.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/data.jpg": "/static/media/data.a585e50f.jpg",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/logo-01.png": "/static/media/logo-01.2192860b.png",
+    "static/media/profile.jpg": "/static/media/profile.1a4289f5.jpg",
+    "static/media/web.svg": "/static/media/web.9331f972.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d3810aa.js",
-    "static/js/2.33fc6df5.chunk.js",
-    "static/css/main.9d01557d.chunk.css",
-    "static/js/main.c39247bc.chunk.js"
+    "static/js/runtime-main.2a083481.js",
+    "static/js/2.bb41b1e3.chunk.js",
+    "static/css/main.53d192af.chunk.css",
+    "static/js/main.cc57cd42.chunk.js"
   ]
 }
