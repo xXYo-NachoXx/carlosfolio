@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4e82fe049f4f8f668fedc401d0d6912",
+    "revision": "8e113a2c0210a32fb8cf6b7109a98b45",
     "url": "/carlosfolio/index.html"
   },
   {
-    "revision": "59db4bc5318d1aeea5fb",
+    "revision": "9dd80693e0be6ee5dbe1",
     "url": "/carlosfolio/static/css/main.9d01557d.chunk.css"
   },
   {
-    "revision": "dfe51178ef17cbbcb071",
-    "url": "/carlosfolio/static/js/2.47712d1f.chunk.js"
+    "revision": "fbc21767311d567070a4",
+    "url": "/carlosfolio/static/js/2.fc32ab1b.chunk.js"
   },
   {
-    "revision": "59db4bc5318d1aeea5fb",
-    "url": "/carlosfolio/static/js/main.9bb15ad3.chunk.js"
+    "revision": "9dd80693e0be6ee5dbe1",
+    "url": "/carlosfolio/static/js/main.9e7585f4.chunk.js"
   },
   {
-    "revision": "62447f90ffb5240591b3",
-    "url": "/carlosfolio/static/js/runtime-main.ad9bf133.js"
+    "revision": "e34095ef8b596cc4e5e6",
+    "url": "/carlosfolio/static/js/runtime-main.3d3810aa.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",

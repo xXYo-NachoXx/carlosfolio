@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/carlosfolio/static/css/main.9d01557d.chunk.css",
-    "main.js": "/carlosfolio/static/js/main.9bb15ad3.chunk.js",
-    "main.js.map": "/carlosfolio/static/js/main.9bb15ad3.chunk.js.map",
-    "runtime-main.js": "/carlosfolio/static/js/runtime-main.ad9bf133.js",
-    "runtime-main.js.map": "/carlosfolio/static/js/runtime-main.ad9bf133.js.map",
-    "static/js/2.47712d1f.chunk.js": "/carlosfolio/static/js/2.47712d1f.chunk.js",
-    "static/js/2.47712d1f.chunk.js.map": "/carlosfolio/static/js/2.47712d1f.chunk.js.map",
+    "main.js": "/carlosfolio/static/js/main.9e7585f4.chunk.js",
+    "main.js.map": "/carlosfolio/static/js/main.9e7585f4.chunk.js.map",
+    "runtime-main.js": "/carlosfolio/static/js/runtime-main.3d3810aa.js",
+    "runtime-main.js.map": "/carlosfolio/static/js/runtime-main.3d3810aa.js.map",
+    "static/js/2.fc32ab1b.chunk.js": "/carlosfolio/static/js/2.fc32ab1b.chunk.js",
+    "static/js/2.fc32ab1b.chunk.js.map": "/carlosfolio/static/js/2.fc32ab1b.chunk.js.map",
     "index.html": "/carlosfolio/index.html",
-    "precache-manifest.b91cd429c22d89b2edac0c5b040417fb.js": "/carlosfolio/precache-manifest.b91cd429c22d89b2edac0c5b040417fb.js",
+    "precache-manifest.11d70f5807e0f272928c883641a6c3b7.js": "/carlosfolio/precache-manifest.11d70f5807e0f272928c883641a6c3b7.js",
     "service-worker.js": "/carlosfolio/service-worker.js",
     "static/css/main.9d01557d.chunk.css.map": "/carlosfolio/static/css/main.9d01557d.chunk.css.map",
     "static/media/index.css": "/carlosfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -19,9 +19,9 @@
     "static/media/web.svg": "/carlosfolio/static/media/web.9331f972.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad9bf133.js",
-    "static/js/2.47712d1f.chunk.js",
+    "static/js/runtime-main.3d3810aa.js",
+    "static/js/2.fc32ab1b.chunk.js",
     "static/css/main.9d01557d.chunk.css",
-    "static/js/main.9bb15ad3.chunk.js"
+    "static/js/main.9e7585f4.chunk.js"
   ]
 }
