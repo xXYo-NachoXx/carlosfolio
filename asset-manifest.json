@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/carlosfolio/static/css/main.9d01557d.chunk.css",
-    "main.js": "/carlosfolio/static/js/main.c39247bc.chunk.js",
-    "main.js.map": "/carlosfolio/static/js/main.c39247bc.chunk.js.map",
+    "main.js": "/carlosfolio/static/js/main.db33091b.chunk.js",
+    "main.js.map": "/carlosfolio/static/js/main.db33091b.chunk.js.map",
     "runtime-main.js": "/carlosfolio/static/js/runtime-main.3d3810aa.js",
     "runtime-main.js.map": "/carlosfolio/static/js/runtime-main.3d3810aa.js.map",
     "static/js/2.33fc6df5.chunk.js": "/carlosfolio/static/js/2.33fc6df5.chunk.js",
     "static/js/2.33fc6df5.chunk.js.map": "/carlosfolio/static/js/2.33fc6df5.chunk.js.map",
     "index.html": "/carlosfolio/index.html",
-    "precache-manifest.a9a263d765437163767492a070eadff8.js": "/carlosfolio/precache-manifest.a9a263d765437163767492a070eadff8.js",
+    "precache-manifest.962202e10e5df6bf21cd0960eb627289.js": "/carlosfolio/precache-manifest.962202e10e5df6bf21cd0960eb627289.js",
     "service-worker.js": "/carlosfolio/service-worker.js",
     "static/css/main.9d01557d.chunk.css.map": "/carlosfolio/static/css/main.9d01557d.chunk.css.map",
     "static/media/index.css": "/carlosfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.3d3810aa.js",
     "static/js/2.33fc6df5.chunk.js",
     "static/css/main.9d01557d.chunk.css",
-    "static/js/main.c39247bc.chunk.js"
+    "static/js/main.db33091b.chunk.js"
   ]
 }
