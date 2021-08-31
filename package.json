@@ -2,7 +2,7 @@
   "private": true,
   "name": "carlosfolio",
   "version": "0.1.0",
-  "homepage": "https://xxyo-nachoxx.github.io/",
+  "homepage": "https://xxyo-nachoxx.github.io/carlosfolio",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
