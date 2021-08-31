@@ -1,12 +1,12 @@
 {
   "private": true,
-  "name": "datasciencefolio",
+  "name": "carlosfolio",
   "version": "0.1.0",
-  "homepage": "http://xXYo-NachoXx.github.io/carlosfolio",
+  "homepage": ".",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
