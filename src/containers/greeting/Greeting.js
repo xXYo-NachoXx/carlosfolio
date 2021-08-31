@@ -6,8 +6,7 @@ import { greeting } from "../../portfolio";
 import { Fade } from "react-reveal";
 import BannerImg from "./BannerImg";
 import Typewriter from "typewriter-effect";
-import CompetitiveSites from "../../components/competitiveSites/CompetitiveSites";
-import { competitiveSites } from "../../portfolio";
+
 export default function Greeting(props) {
   const theme = props.theme;
   return (
@@ -22,20 +21,20 @@ export default function Greeting(props) {
               <h1 className="greeting-sub" style={{ color: theme.grayText }}>
                 I'm <mark data-entity="person">{greeting.sub}</mark>
               </h1>
-              <h1 className="greeting-typewriter" style={{color: theme.blue}}>
+              <h1 className="greeting-typewriter" style={{ color: theme.blue }}>
                 <Typewriter
                   onInit={(typewriter) => {
                     typewriter
-                      .typeString("Data Scientist(NLP)")
+                      .typeString("Software Engineer")
                       .pauseFor(200)
                       .deleteAll()
-                      .typeString("Web Developer")
+                      .typeString("Full Stack Developer")
                       .pauseFor(200)
                       .deleteAll()
                       .typeString("UI/UX Designer")
                       .pauseFor(200)
                       .deleteAll()
-                      .typeString("IT Engineer")
+                      .typeString("IT/Site Realibility Eng")
                       .pauseFor(200)
                       .start();
                   }}
@@ -47,17 +46,21 @@ export default function Greeting(props) {
               </h1>
               <span
                 className="greeting-text-span subTitle"
-                style={{ color: theme.text }}>
+                style={{ color: theme.text }}
+              >
                 <div className="entities">
-                  A <mark data-entity="noun">Data Science practitioner</mark>{" "}
-                  who thrives to{" "}
-                  <mark data-entity="verb">leverage Startups</mark> using
-                  AI-based solutions along with{" "}
-                  <mark data-entity="skill">Web Development</mark> and a blend
-                  of <mark data-entity="freelance">UI/UX Designing</mark>
+                  A <mark data-entity="noun">Software Engineer</mark> who
+                  thrives to <mark data-entity="verb"> projects </mark> in areas
+                  like{" "}
+                  <mark data-entity="skill">Full Stack Web Development</mark>{" "}
+                  and a blend of{" "}
+                  <mark data-entity="skill">
+                    UX/UI design & Site realibility Knowledge
+                  </mark>
+                  to bring a solid design to top to botton on end to end Web
+                  Apps
                 </div>
               </span>
-              <CompetitiveSites logos={competitiveSites.competitiveSites} />
               <div className="button-greeting-div">
                 <Button text="Contact me" href="/contact" />
                 <Button

@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
-import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 import AddressImg from "./AddressImg";
 import { Fade } from "react-reveal";
@@ -38,12 +37,11 @@ class Contact extends Component {
                 >
                   {ContactData["description"]}
                 </p>
-                <SocialMedia theme={theme} />
                 <div className="resume-btn-div">
                   <Button
-                    text="Drop a mail"
+                    text="Send me an email"
                     newTab={true}
-                    href="mailto:rohankokkula01@gmail.com"
+                    href="mailto:cagsegura0499@gmail.com"
                     theme={theme}
                   />
                 </div>

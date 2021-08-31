@@ -4,7 +4,6 @@ import Home from "../pages/home/HomeComponent";
 import Splash from "../pages/splash/Splash";
 import Education from "../pages/EduEx/EducationComponent";
 import Contact from "../pages/contact/ContactComponent";
-import Projects from "../pages/projects/Projects";
 import { settings } from "../portfolio.js";
 import { createBrowserHistory } from "history";
 
@@ -51,12 +50,6 @@ export default class Main extends Component {
                   <Splash {...props} theme={this.props.theme} />
                 )}
               />
-              <Route
-                path="/projects"
-                render={(props) => (
-                  <Projects {...props} theme={this.props.theme} />
-                )}
-              />
             </Switch>
           </Router>
         </div>
@@ -85,12 +78,6 @@ export default class Main extends Component {
                 path="/contact"
                 render={(props) => (
                   <Contact {...props} theme={this.props.theme} />
-                )}
-              />
-              <Route
-                path="/projects"
-                render={(props) => (
-                  <Projects {...props} theme={this.props.theme} />
                 )}
               />
             </Switch>
