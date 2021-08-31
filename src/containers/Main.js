@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Route, Switch, Router } from "react-router-dom";
+import { Route, Switch, HashRouter as Router } from "react-router-dom";
 import Home from "../pages/home/HomeComponent";
 import Splash from "../pages/splash/Splash";
 import Education from "../pages/EduEx/EducationComponent";
@@ -19,7 +19,7 @@ export default class Main extends Component {
     if (settings.isSplash) {
       return (
         <div>
-          <Router basename="/" history={history}>
+          <Router basename={process.env.PUBLIC_URL} history={history}>
             <Switch>
               <Route
                 path="/"
