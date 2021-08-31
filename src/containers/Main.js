@@ -19,9 +19,10 @@ export default class Main extends Component {
     if (settings.isSplash) {
       return (
         <div>
-          <Router basename={process.env.PUBLIC_URL} history={history}>
+          <Router basename="/" history={history}>
             <Switch>
               <Route
+                exact
                 path="/"
                 render={(props) => <Home {...props} theme={this.props.theme} />}
               />
